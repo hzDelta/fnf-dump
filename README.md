@@ -1,3 +1,5 @@
+![](/images/imbeds/dump_header.PNG)
+
 # welcome to the dump
 uhh yeah this is gonna be where i dump my fnf stuff (scrapped tracks, early tracks, art, images for embedding elsewhere...)
 
