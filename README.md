@@ -8,7 +8,7 @@ uhh yeah this is gonna be where i dump my fnf stuff (scrapped tracks, early trac
 future additions(?):
 
 `audioes` folder
-- the *"OST"* versions of tracks
+- ~~the *"OST"* versions of tracks~~ Done!
   - basically the FLACs that get put up on streaming services
 - FLPs for tracks/songs
   - very rare chance i actually do this considering GitHub's upload size limit
