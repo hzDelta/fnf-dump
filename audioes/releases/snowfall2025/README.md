@@ -1,4 +1,4 @@
-## SNOWFALL (2025)
+## SNOWFALL
 *Released 07-02-2025*
 
 Links:
