@@ -1,6 +1,6 @@
 # FL Studio Project Files (FLPs)
 
-All FLPs will have their dependencies in their individual `README` files. (VST(i)s, Effects, SoundFonts, etc.)
+All FLPs will have their dependencies in their individual `README` files. (Program versions, VST(i)s, Effects, SoundFonts, etc.)
 
 [Download / Buy FL Studio](https://www.image-line.com/fl-studio-download)*
 
