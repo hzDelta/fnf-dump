@@ -1,6 +1,8 @@
 # Ace Kicker (Pause Menu)
 
-### SoundFonts have been removed from the ZIP archive due to their large file sizes.
+### Requires FL Studio `Version 24.2.2.4597` or newer.
+
+##### (SoundFonts have been removed from the ZIP archive due to their large file sizes!)
 
 Used Plugins
 -
