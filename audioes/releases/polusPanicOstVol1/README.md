@@ -1,7 +1,7 @@
-## Polus Panic! Original Soundtrack, Vol. 1
+# Polus Panic! Original Soundtrack, Vol. 1
 *Released 03-17-2025*
 
-Links:
+## Links:
 
 - [YouTube](https://www.youtube.com/playlist?list=OLAK5uy_lyGhopCjcBBpy1wRcJrgtjW2o1DhdXk04)
 

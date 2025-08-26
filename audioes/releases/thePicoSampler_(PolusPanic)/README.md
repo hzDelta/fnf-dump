@@ -1,7 +1,7 @@
-## The Pico Sampler (Polus Panic!)
+# The Pico Sampler (Polus Panic!)
 *Released 05-25-2025*
 
-Links:
+## Links:
 
 - [YouTube](https://www.youtube.com/playlist?list=OLAK5uy_ntwK8K0Q3AFUhyXS-ozxc9qrMrbwKGCO0)
 
